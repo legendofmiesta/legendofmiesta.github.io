@@ -6,4 +6,4 @@ Built with a simple stack of HTML, CSS, and JavaScript, this project is a small 
 
 ### Acknowledgements
 
-My friend Nick for helping with voice lines
+My friend Nick for helping with voice lines.
